@@ -1,0 +1,38 @@
+{
+    "Планирование": {
+        "progress": 100,
+        "locked": false
+    },
+    "Депозиты": {
+        "progress": 100,
+        "locked": false
+    },
+    "Кредиты": {
+        "progress": 100,
+        "locked": false
+    },
+    "Операции": {
+        "progress": 100,
+        "locked": false
+    },
+    "Страхование": {
+        "progress": 100,
+        "locked": false
+    },
+    "Инвестиции": {
+        "progress": 0,
+        "locked": false
+    },
+    "Пенсии": {
+        "progress": 0,
+        "locked": true
+    },
+    "Налоги": {
+        "progress": 0,
+        "locked": true
+    },
+    "Мошенничество": {
+        "progress": 0,
+        "locked": true
+    }
+}

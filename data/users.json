@@ -1,0 +1,65 @@
+{
+    "users": {
+        "user1": {
+            "password": "1234",
+            "first_name": "Иван",
+            "last_name": "Петров",
+            "middle_name": "Алексеевич",
+            "age": 13,
+            "school": "Школа №15",
+            "grade": "7Б",
+            "currency": 0
+        },
+        "Хома": {
+            "password": "123",
+            "last_name": "",
+            "first_name": "",
+            "middle_name": "",
+            "age": 19,
+            "school": "",
+            "grade": "",
+            "currency": 0
+        },
+        "Хом": {
+            "password": "123",
+            "last_name": "Стиценко",
+            "first_name": "Арина",
+            "middle_name": "Игоревна",
+            "age": 19,
+            "school": "№71",
+            "grade": "9в",
+            "currency": 0
+        },
+        "Хомка": {
+            "password": "123",
+            "last_name": "Стиценко",
+            "first_name": "Арина",
+            "middle_name": "Игоревна",
+            "age": 19,
+            "school": "71",
+            "grade": "1а",
+            "currency": 0
+        },
+        "Хомкаф": {
+            "password": "123",
+            "last_name": "Стиценко",
+            "first_name": "Арина",
+            "middle_name": "Игоревна",
+            "age": 19,
+            "school": "71",
+            "grade": "9в",
+            "currency": 10
+        },
+        "логин": {
+            "password": "123",
+            "last_name": "Лох",
+            "first_name": "Арлекино",
+            "middle_name": "Предвестник",
+            "age": 19,
+            "school": "75",
+            "grade": "9в",
+            "currency": 0
+        }
+    },
+    "current_user": "логин"
+}
